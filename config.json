@@ -1,0 +1,21 @@
+{
+    "stockDataLocation": "www.stooq.com/db/d/?b=d_us_txt",
+    "baseDataLoc": "./baseData",
+    "newDataTempLoc": "./baseData/data/daily.us",
+    "usableDataLoc": "./data",
+    "timeModifier": 0.9975,
+    "stocksLocation": "./data",
+    "maxPortfolioPercentPerStock": 0.05,
+    "trustedStock": {
+        "market": "nasdaq stocks",
+        "tocker": "aapl"
+    },
+    "avgLength": 70,
+    "markets": [
+        "nasdaq stocks",
+        "nyse stocks"
+    ],
+    "marketTimes": {
+        "close": 20
+    }
+}
